@@ -23,10 +23,10 @@ Enables logging.
 
 Enables file compression.
 
-#####-port <number>
+#####-port &lt;number&gt;
 
 Use a custom port to listen to requests. By default, it's using `8000`.
 
-#####-lag <number>
+#####-lag &lt;number&gt;
 
 Set a small delay in milliseconds before answering requests.
