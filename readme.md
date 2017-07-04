@@ -15,18 +15,18 @@ Options
 For a complete list of options, run `node server -help`
 
 
-#####-log
+##### -log
 
 Enables logging.
 
-#####-compress
+##### -compress
 
 Enables file compression.
 
-#####-port &lt;number&gt;
+##### -port &lt;number&gt;
 
 Use a custom port to listen to requests. By default, it's using `8000`.
 
-#####-lag &lt;number&gt;
+##### -lag &lt;number&gt;
 
 Set a small delay in milliseconds before answering requests.
